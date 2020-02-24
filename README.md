@@ -30,6 +30,7 @@ Functions to Create, Get, check if key Exists and Delete a key from the store
 
 ### TODO :
 
+- Fix the hashing function and collision handling function
 - Currently supports 1GB of storage, must be made configurable.
 - Supports values upto 16KB in size and keys lenght is truncated to 32 chars, this also need to be configurable
 
