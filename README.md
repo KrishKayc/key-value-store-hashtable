@@ -1,7 +1,7 @@
 # key-value-store-hashtable
 A file based key-value store implemented based on hashtable. 
 
-Hashtables implementation solves the complexity in fetching the records when comparing to linked list implementation => https://github.com/KrishKayc/key-value-store
+Hashtable implementation solves the complexity in fetching the records when comparing to linked list implementation => https://github.com/KrishKayc/key-value-store
 
 Supports string keys and json values, concurrent read and writes from the store and 'eviction' of keys with expiration time.
 
